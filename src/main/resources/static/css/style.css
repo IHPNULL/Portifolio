@@ -860,6 +860,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_header.scss */
 .header-area {
+  background-color: #040e27;
   left: 0;
   right: 0;
   width: 100%;
@@ -2352,8 +2353,8 @@ h3 {
 
 /* line 7, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_footer.scss */
 .footer .footer_top {
-  padding-top: 58px;
-  padding-bottom: 190px;
+  padding-top: 13px;
+  padding-bottom: 47.5px;
 }
 
 @media (max-width: 767px) {
